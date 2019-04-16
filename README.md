@@ -1,8 +1,8 @@
 # Multimedia-y-realidad-Virtual
 
-Universidad Nacional de San Agustin\n
-Laboratorio de multimedia y realidad virtual\n
+Universidad Nacional de San Agustin - 
+Laboratorio de multimedia y realidad virtual
 
-Integrantes: \n
-	- Inga Hanampa, Luis Angel\n
-	- Manchego Machaca, Rodolfo Alonso\n
+Integrantes: 
+* Inga Hanampa, Luis Angel
+* Manchego Machaca, Rodolfo Alonso
