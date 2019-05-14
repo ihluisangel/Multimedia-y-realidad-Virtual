@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{01F67FE6-7F1D-A485-71D9-9A9499977C3D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Clicker.cs">
+    <Files>
+      <File FileName="Assets/HeadLookWalk.cs" Line="15" Column="6" />
+      <File FileName="Assets/GestureWalk.cs" Line="20" Column="6" />
+      <File FileName="Assets/Clicker.cs" Line="13" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
